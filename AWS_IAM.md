@@ -1,4 +1,4 @@
-#AWS Identity and Access Management (IAM) Learning Resource List
+# AWS Identity and Access Management (IAM) Learning Resource List
 
 AWS Identity and Access Management (IAM) is a web service that is used to control who is authenticated and authorized to use AWS resources. In this reading and resource list I provide a collection of curated open access resources on AWS IAM for those wishing to learn more about this service. I focused on open access resources for this list so anyone can learn about AWS IAM without having to traverse paywalls. Curation of this list involved assessing 19 resources, 9 of which were accepted to be part of this list, and 10 of which were rejected. The 9 resources that were accepted were accurate, met inclusiveness expectations, did not require unrelated prior knowledge, and contained current information. If you think I missed a resource, or have any comments about this list or anything on it, please email me at b@straithe.com, submit a pull request, or raise a GitHub issue to let me know. 
 
@@ -6,16 +6,16 @@ AWS Identity and Access Management (IAM) is a web service that is used to contro
 ---
 
 
-##TRAINING VIDEOS
+## TRAINING VIDEOS
 
-###(VIDEO) Account Security with IAM | Amazon Web Services BASICS  
+### (VIDEO) Account Security with IAM | Amazon Web Services BASICS  
 Academind  
 https://www.youtube.com/watch?v=9CKsX6MOPDQ  
 00:11:22  
 * Defines and describes IAM.
 * Gives an overview of what IAM groups, users, roles, and policies are.
 
-###(VIDEO) Introduction to AWS Identity and Access Management (IAM)  
+### (VIDEO) Introduction to AWS Identity and Access Management (IAM)  
 AWS Training and Certification  
 https://www.aws.training/Details/Video?id=16448  
 00:06:50  
@@ -24,7 +24,7 @@ https://www.aws.training/Details/Video?id=16448
 * Gives an explanation of how users and services can assume roles.
 **NOTE: This video does not have closed captioning. **
 
-###(VIDEO) AWS Essentials: IAM Initial Setup and Configuration  
+### (VIDEO) AWS Essentials: IAM Initial Setup and Configuration  
 https://www.youtube.com/watch?v=W_eu0rJN0yU  
 Linux Academy  
 00:12:01  
@@ -32,14 +32,14 @@ Linux Academy
 * Demonstrates how to create users and groups, how to add users to groups, and how to attach policies to groups.
 * Covers user password requirements that can be set. 
 
-###(VIDEO) AWS Essentials: IAM Users and Policies  
+### (VIDEO) AWS Essentials: IAM Users and Policies  
 https://www.youtube.com/watch?v=jP-1qPe6P4s  
 Linux Academy  
 00:04:37  
 * Discusses how to create, use, and manage users and policies. 
 * Demonstrates of how to create users and attach policies in the AWS management console
 
-###(VIDEO) AWS Essentials: IAM Groups and Policies  
+### (VIDEO) AWS Essentials: IAM Groups and Policies  
 https://www.youtube.com/watch?v=R5RCCrS3pcI  
 Linux Academy  
 00:03:54  
@@ -47,7 +47,7 @@ Linux Academy
 * Demonstrates how to create groups and add users and policies to a group. 
 * Discusses the benefits of using groups. 
 
-###(VIDEO) Introduction to AWS IAM - Policies, Permissions, Users, Groups & Roles  
+### (VIDEO) Introduction to AWS IAM - Policies, Permissions, Users, Groups & Roles  
 https://www.youtube.com/watch?v=-CEefWoGunI  
 CLOUD GURU  
 00:09:56  
@@ -59,8 +59,8 @@ CLOUD GURU
 ---
 
 
-##CONFERENCE VIDEOS  
-###(VIDEO) AWS re:Invent 2019: [REPEAT 1] Getting started with AWS identity (SEC209-R1)  
+## CONFERENCE VIDEOS  
+### (VIDEO) AWS re:Invent 2019: [REPEAT 1] Getting started with AWS identity (SEC209-R1)  
 Becky Weiss & AWS Events  
 https://www.youtube.com/watch?v=Zvz-qYYhvMk  
 01:02:15  
@@ -71,8 +71,8 @@ https://www.youtube.com/watch?v=Zvz-qYYhvMk
 ---
 
 
-##BLOG POSTS
-###(BLOG) AWS - IAM Account Root User Overview  
+## BLOG POSTS
+### (BLOG) AWS - IAM Account Root User Overview  
 https://medium.com/awesome-cloud/aws-account-root-user-a43c9fb1697a  
 Ashish Patel   
 * Details what the AWS IAM root account is.
@@ -80,7 +80,7 @@ Ashish Patel
 * Outlines some best practices for handling the root user account. 
 
 
-###(BLOG) AWS Fundamentals - Part 4: Identity & Access Management (IAM)  
+### (BLOG) AWS Fundamentals - Part 4: Identity & Access Management (IAM)  
 https://adamraffe.com/2019/02/20/aws-fundamentals-part-4-identity-access-management-iam/  
 Adam Raffe  
 * Describes what principals are. 
