@@ -30,6 +30,15 @@ https://www.youtube.com/watch?v=xoy16zChUK0
 00:01:36
 * Demonstrates how to find which resource an IP address in your environment belongs to. 
 
+### (VIDEO) AWS re:Invent 2018: Your Virtual Data Center: VPC Fundamentals and Connectivity Options (NET201)
+Gina Morris & Amazon Web Services
+https://www.youtube.com/watch?v=jZAvKgqlrjY
+00:50:50
+* Describes what Amazon Virtual Private Cloud (VPC) is. 
+* Discusses subnetting and routing in VPC. 
+* Discusses VPC and IPv6.
+* Discusses different ways of connecting to VPC.
+
 
 ---
 
