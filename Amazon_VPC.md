@@ -30,6 +30,12 @@ https://www.youtube.com/watch?v=xoy16zChUK0
 00:01:36
 * Demonstrates how to find which resource an IP address in your environment belongs to. 
 
+
+---
+
+
+## CONFERENCE VIDEOS
+
 ### (VIDEO) AWS re:Invent 2018: Your Virtual Data Center: VPC Fundamentals and Connectivity Options (NET201)
 Gina Morris & Amazon Web Services
 https://www.youtube.com/watch?v=jZAvKgqlrjY
