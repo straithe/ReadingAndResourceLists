@@ -45,6 +45,15 @@ https://www.youtube.com/watch?v=jZAvKgqlrjY
 * Discusses VPC and IPv6.
 * Discusses different ways of connecting to VPC.
 
+### (VIDEO) VPC Design and New Capabilities for Amazon VPC  
+Tom Adamski, Steve Seymour, & Amazon Web Services  
+https://www.youtube.com/watch?v=rQvl-V3tLiQ  
+00:44:40  
+* Describes what Amazon Virtual Private Cloud (VPC) is.  
+* Describes how to set up an Internet-connected VPC.  
+* Discusses choices that can be made while setting up VPC.  
+* Describes ways to connect to VPC.  
+
 
 ---
 
