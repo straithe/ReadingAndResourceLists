@@ -1,4 +1,4 @@
-# ReadingAndResourcesLists
+# Reading And Resources Lists
 
 The reading and resource lists in this repository are collections of curated open access resources on various topics. Each list covers one topic. I focus on open access resources for these lists so anyone can learn about the topics covered without having to traverse paywalls. Curation is an important aspect of these lists as only 9 out of 19 resources that we've reviewed were accurate, met inclusiveness expectations, and contained current information. 
 
