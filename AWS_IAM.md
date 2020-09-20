@@ -21,7 +21,7 @@ https://www.aws.training/Details/Video?id=16448
 00:06:50  
 * Covers authentication and IAM support for federated users through integration with third-party identity providers.
 * Discusses what IAM policies are, how they are formatted, and how they can be used. 
-* Gives an explanation of how users and services can assume roles.
+* Gives an explanation of how users and services can assume roles.  
 **NOTE: This video does not have closed captioning.**
 
 ### (VIDEO) AWS Essentials: IAM Initial Setup and Configuration  
