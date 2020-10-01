@@ -1,10 +1,25 @@
 # Amazon SageMaker Reading and Resource List
 
-Amazon SageMaker is a fully managed service that provides developers and data scientists with the ability to build, train, and deploy machine learning (ML) models quickly. In this reading and resource list I provide a collection of curated open access resources on Amazon SageMaker for those wishing to learn more about it. I focused on open access resources for this list so anyone can learn about Amazon SageMaker without having to traverse paywalls. Curation of this list involved assessing 1 resources, 1 of which were accepted to be part of this list, and 0 of which were rejected. The 1 resources that were accepted were accurate, met inclusiveness expectations, did not require unrelated prior knowledge, and contained current information. If you think I missed a resource, or have any comments about this list or anything on it, please email me at b@straithe.com, submit a pull request, or raise a GitHub issue to let me know. 
+Amazon SageMaker is a fully managed service that provides developers and data scientists with the ability to build, train, and deploy machine learning (ML) models quickly. In this reading and resource list I provide a collection of curated open access resources on Amazon SageMaker for those wishing to learn more about it. I focused on open access resources for this list so anyone can learn about Amazon SageMaker without having to traverse paywalls. Curation of this list involved assessing 5 resources, 2 of which were accepted to be part of this list, and 3 of which were rejected. The 2 resources that were accepted were accurate, met inclusiveness expectations, did not require unrelated prior knowledge, and contained current information. If you think I missed a resource, or have any comments about this list or anything on it, please email me at b@straithe.com, submit a pull request, or raise a GitHub issue to let me know. 
 
 
 ---
 
+
+## CONFERENCE VIDEOS
+
+### (VIDEO) AWS re:Invent 2017 - Introducing Amazon SageMaker  
+Andy Jassy & Amazon Web Services  
+https://www.youtube.com/watch?v=lM4zhNO5Rbg  
+00:07:46  
+* Desribes what SageMaker is.  
+* Discusses the pieces and features of SageMaker at its launch in 2017.  
+
+
+---
+
+
+## BLOG POSTS
 
 ### (BLOG) Detecting fraud in games using machine learning  
 Amazon Game Tech Team  
