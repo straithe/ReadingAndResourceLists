@@ -26,31 +26,31 @@ https://www.aws.training/Details/Video?id=16448
 **NOTE: This video does not have closed captioning.**
 
 ### (VIDEO) AWS Essentials: IAM Initial Setup and Configuration  
-https://www.youtube.com/watch?v=W_eu0rJN0yU  
 Linux Academy  
+https://www.youtube.com/watch?v=W_eu0rJN0yU  
 00:12:01  
 * Describes IAM best practices and demonstrates how to set up Multi-Factor Authentication (MFA). 
 * Demonstrates how to create users and groups, how to add users to groups, and how to attach policies to groups.
 * Covers user password requirements that can be set. 
 
 ### (VIDEO) AWS Essentials: IAM Users and Policies  
-https://www.youtube.com/watch?v=jP-1qPe6P4s  
 Linux Academy  
+https://www.youtube.com/watch?v=jP-1qPe6P4s  
 00:04:37  
 * Discusses how to create, use, and manage users and policies. 
 * Demonstrates of how to create users and attach policies in the AWS management console
 
 ### (VIDEO) AWS Essentials: IAM Groups and Policies  
-https://www.youtube.com/watch?v=R5RCCrS3pcI  
 Linux Academy  
+https://www.youtube.com/watch?v=R5RCCrS3pcI  
 00:03:54  
 * Demonstrates how to detach policies from users.
 * Demonstrates how to create groups and add users and policies to a group. 
 * Discusses the benefits of using groups. 
 
 ### (VIDEO) Introduction to AWS IAM - Policies, Permissions, Users, Groups & Roles  
-https://www.youtube.com/watch?v=-CEefWoGunI  
 CLOUD GURU  
+https://www.youtube.com/watch?v=-CEefWoGunI  
 00:09:56  
 * Demonstrates how to create custom policies, and shows that you can give permissions to a user by adding them to a group, copying permissions from an existing user, or attaching policies.
 * Discusses programmatic access and AWS Management Console access and demonstrates how to use the AWS CLI. 
@@ -76,16 +76,16 @@ https://www.youtube.com/watch?v=Zvz-qYYhvMk
 ## BLOG POSTS
 
 ### (BLOG) AWS - IAM Account Root User Overview  
-https://medium.com/awesome-cloud/aws-account-root-user-a43c9fb1697a  
-Ashish Patel   
+Ashish Patel  
+https://medium.com/awesome-cloud/aws-account-root-user-a43c9fb1697a   
 * Details what the AWS IAM root account is.
 * Gives scenarios outlining when to use the root account, or not.
 * Outlines some best practices for handling the root user account. 
 
 
 ### (BLOG) AWS Fundamentals - Part 4: Identity & Access Management (IAM)  
-https://adamraffe.com/2019/02/20/aws-fundamentals-part-4-identity-access-management-iam/  
 Adam Raffe  
+https://adamraffe.com/2019/02/20/aws-fundamentals-part-4-identity-access-management-iam/  
 * Describes what principals are. 
 * Outlines passwords, access key IDs, and secret access keys and forms of AWS resources access.
 * Covers identity policies, resource policies, and trust policies. 
