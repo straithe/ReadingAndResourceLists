@@ -24,9 +24,9 @@ https://www.youtube.com/watch?v=mNjExgP97VM
 * Demonstrates how to add a secondary CIDR to a VPC.  
 * Demonstrates how to create a new subnet.  
 
-### (VIDEO) How do I find an unknown IP address in my VPC?
-Amazon Web Services
-https://www.youtube.com/watch?v=xoy16zChUK0
+### (VIDEO) How do I find an unknown IP address in my VPC?  
+Amazon Web Services  
+https://www.youtube.com/watch?v=xoy16zChUK0  
 00:01:36
 * Demonstrates how to find which resource an IP address in your environment belongs to. 
 
