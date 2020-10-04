@@ -11,7 +11,7 @@ Amazon SageMaker is a fully managed service that provides developers and data sc
 ### (VIDEO) AWS SageMaker in 10 Minutes! (Artificial Intelligence & Machine Learning with Amazon Web Services)  
 Stemplicity  
 https://www.youtube.com/watch?v=pfjhNe1M2t4  
-10:46  
+00:10:46  
 * Gives a tour of Amazon SageMaker in the AWS console.  
 * Describes the steps in the Amazon SageMaker pipeline at a high-level.  
 * Describes the various data labelling options in Amazon SageMaker.   
