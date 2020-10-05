@@ -26,6 +26,7 @@ https://www.youtube.com/watch?v=jOMEf7iabng
 * Demonstrates how to set up a SageMaker instance.  
 * Demonstrates how to adjust a Jupyter notebook for training.  
 * Demonstrates how to delete a SageMaker instance and its related artifacts.  
+
 Note: Price data mentioned in video may be out of date. 
 
 
