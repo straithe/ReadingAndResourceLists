@@ -1,6 +1,6 @@
 # Amazon SageMaker Reading and Resource List
 
-Amazon SageMaker is a fully managed service that provides developers and data scientists with the ability to build, train, and deploy machine learning (ML) models quickly. In this reading and resource list I provide a collection of curated open access resources on Amazon SageMaker for those wishing to learn more about it. I focused on open access resources for this list so anyone can learn about Amazon SageMaker without having to traverse paywalls. Curation of this list involved assessing 10 resources, 4 of which were accepted to be part of this list, and 6 of which were rejected. The 4 resources that were accepted were accurate, met inclusiveness expectations, did not require unrelated prior knowledge, and contained current information. If you think I missed a resource, or have any comments about this list or anything on it, please email me at b@straithe.com, submit a pull request, or raise a GitHub issue to let me know. 
+Amazon SageMaker is a fully managed service that provides developers and data scientists with the ability to build, train, and deploy machine learning (ML) models quickly. In this reading and resource list I provide a collection of curated open access resources on Amazon SageMaker for those wishing to learn more about it. I focused on open access resources for this list so anyone can learn about Amazon SageMaker without having to traverse paywalls. Curation of this list involved assessing 11 resources, 5 of which were accepted to be part of this list, and 6 of which were rejected. The 5 resources that were accepted were accurate, met inclusiveness expectations, did not require unrelated prior knowledge, and contained current information. If you think I missed a resource, or have any comments about this list or anything on it, please email me at b@straithe.com, submit a pull request, or raise a GitHub issue to let me know. 
 
 
 ---
@@ -29,6 +29,11 @@ https://www.youtube.com/watch?v=jOMEf7iabng
 
 Note: Price data mentioned in video may be out of date. 
 
+### (VIDEO) Getting Started With AWS SageMaker  
+J. Weathers & Deep Learning Team  
+https://www.youtube.com/watch?v=tBRHh_V8vjc  
+9:30  
+* Demonstrates how to deploy a SageMaker instance. 
 
 
 ---
