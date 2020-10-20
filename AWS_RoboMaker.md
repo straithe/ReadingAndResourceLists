@@ -12,7 +12,7 @@ The 2 resources that were accepted were accurate, met inclusiveness expectations
 
 ## VIDEOS
 
-###(VIDEO) What is AWS RoboMaker?  
+### (VIDEO) What is AWS RoboMaker?  
 Amazon Web Services  
 https://www.youtube.com/watch?v=U1ukEpzKCYY  
 * Outlines what AWS RoboMaker is.  
