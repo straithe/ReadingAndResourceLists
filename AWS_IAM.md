@@ -1,9 +1,9 @@
 # AWS Identity and Access Management (IAM) Reading and Resource List
 
-AWS Identity and Access Management (IAM) is a web service that is used to control who is authenticated and authorized to use AWS resources. In this reading and resource list I provide a collection of curated open access resources on AWS IAM. Curation of this list involved assessing 19 resources:  
+AWS Identity and Access Management (IAM) is a web service that is used to control who is authenticated and authorized to use AWS resources. In this reading and resource list I provide a collection of curated open access resources on AWS IAM. Curation of this list involved assessing 20 resources:  
 
 * 9 resources were accepted.  
-* 10 resources which were rejected.  
+* 11 resources which were rejected.  
 
 The 9 resources that were accepted were accurate, met inclusiveness expectations, did not require unrelated prior knowledge, and contained current information. If you think I missed a resource, or have any comments about this list or anything on it, please email me at b@straithe.com, submit a pull request, or raise a GitHub issue to let me know. 
 
