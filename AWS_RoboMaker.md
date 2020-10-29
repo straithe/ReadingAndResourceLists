@@ -1,9 +1,9 @@
 # AWS RoboMaker Reading and Resource List
 
-AWS RoboMaker extends the Robot Operating System (ROS) framework with cloud services and can be used to create robotics applications at scale. In this reading and resource list I provide a collection of curated open access resources on AWS RoboMaker. Curation of this list involved assessing 2 resources:  
+AWS RoboMaker extends the Robot Operating System (ROS) framework with cloud services and can be used to create robotics applications at scale. In this reading and resource list I provide a collection of curated open access resources on AWS RoboMaker. Curation of this list involved assessing 4 resources:  
 
 * 2 resources were accepted.  
-* 0 resources were rejected.  
+* 2 resources were rejected.  
 
 The 2 resources that were accepted were accurate, met inclusiveness expectations, did not require unrelated prior knowledge, and contained current information. If you think I missed a resource, or have any comments about this list or anything on it, please email me at b@straithe.com, submit a pull request, or raise a GitHub issue to let me know. 
 
